@@ -1,0 +1,354 @@
+body{
+    background-color: black;
+}
+#divmain{
+    display: flex;
+    margin-left:220px;
+    justify-content: space-evenly;
+    width: 100px;
+    text-align: center;
+}
+#divmain>h1{
+    height:30px;
+    width: 200px;
+    text-decoration: none;
+    background-color:rgb(70, 68, 68) ;
+    color:white;
+    border-radius: 6px;
+    margin: 10px;
+    font-size: 20px;
+}
+#divmain>h1:hover{
+  background-color: green;
+  color: black;
+}
+
+#divMain{
+    width:200px;
+    height:150px;
+    position: fixed;
+}
+#divMain>a{
+    text-decoration: none;
+    color:white ;
+    font-size: 15px;
+}
+#divMain>img{
+    width: 150px;
+    height: 70px;
+    margin: 5px;
+}
+#divMain>span{
+   font-size: 30px;
+   color:white;
+   margin: 10px;
+}
+#divMain>a:hover{
+    color: green;
+}
+#divMain>span:hover{
+    color: green;
+}
+
+#divMain1{
+    color: white;
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+#divMain1>div>img{
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+}
+#divMain1>div>div>h1{
+    color: white;
+}
+#divMain1>div>div>p{
+    color: white;
+}
+#div1{
+    color: white;
+    margin-left: 156px;
+}
+#divMain1>div>div>button{
+    background-color: black;
+    color:white;
+    border: 0;
+}
+#divMain1>div>div>button:hover{
+    color: green;
+}
+#divMain2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+}
+#divMain2>div>img{
+    width: 200px;
+    height: 200px;
+}
+#divMain2>div>div>h1{
+    color: white;
+}
+#divMain2>div>div>p{
+    color: white;
+}
+#div2{
+    color: white;
+    margin-left: 156px;
+}
+#divMain2>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain2>div>div>button:hover{
+    color: green;
+}
+#divMain3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+}
+#divMain3>div>img{
+    width: 200px;
+    height: 200px;
+}
+#divMain3>div>div>h1{
+    color: white;
+}
+#divMain3>div>div>p{
+    color: white;
+}
+#div3{
+    color: white;
+    margin-left: 156px;
+}
+#divMain3>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain3>div>div>button:hover{
+    color: green;
+}
+#divMain4{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+}
+#divMain4>div>img{
+    width:200px;
+    height: 200px;
+}
+#divMain4>div>div>h1{
+    color: white;
+}
+#divMain4>div>div>p{
+    color: white;
+}
+#div4{
+    color: white;
+    margin-left: 156px;
+}
+#divMain4>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain4>div>div>button:hover{
+    color: green;
+}
+#divMain5{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+}
+#divMain5>div>img{
+    width: 200px;
+    height: 200px;
+}
+#divMain5>div>div>h1{
+    color: white;
+}
+#divMain5>div>div>p{
+    color: white;
+}
+#div5{
+    color: white;
+    margin-left:156px;
+}
+#divMain5>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain5>div>div>button:hover{
+    color: green;
+}
+#divMain6{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+    border-radius: 30px;
+}
+#divMain6>div>img{
+    width: 200px;
+    height: 200px;
+}
+#divMain6>div>div>h1{
+    color: white;
+}
+#divMain6>div>div>p{
+    color: white;
+}
+#div6{
+    color: white;
+    margin-left:156px;
+}
+#divMain6>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain6>div>div>button:hover{
+    color: green;
+}
+#divMain7{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+}
+#divMain7>div>img{
+    width: 200px;
+    height: 200px;
+}
+#divMain7>div>div>h1{
+    color: white;
+}
+#divMain7>div>div>p{
+    color: white;
+}
+#div7{
+    color: white;
+    margin-left:156px;
+}
+#divMain7>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain7>div>div>button:hover{
+    color: green;
+}
+#divMain8{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+}
+#divMain8>div>img{
+    width: 200px;
+    height: 200px;
+}
+#divMain8>div>div>h1{
+    color: white;
+}
+#divMain8>div>div>p{
+    color: white;
+}
+#div8{
+    color: white;
+    margin-left:156px;
+}
+#divMain8>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain8>div>div>button:hover{
+    color: green;
+}
+#divMain9{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+}
+#divMain9>div>img{
+    width: 200px;
+    height: 200px;
+}
+#divMain9>div>div>h1{
+    color: white;
+}
+#divMain9>div>div>p{
+    color: white;
+}
+#div9{
+    color: white;
+    margin-left:156px;
+}
+#divMain9>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain9>div>div>button:hover{
+    color: green;
+}
+#divMain10{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+}
+#divMain10>div>img{
+    width: 200px;
+    height: 200px;
+}
+#divMain10>div>div>h1{
+    color: white;
+}
+#divMain10>div>div>p{
+    color: white;
+}
+#div10{
+    color: white;
+    margin-left:156px;
+}
+#divMain10>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain10>div>div>button:hover{
+    color: green;
+}
+#divMain11{
+    display:flex;
+    justify-content: space-evenly;
+    margin-left: 156px;
+}
+#divMain11>div>img{
+    width: 200px;
+    height: 200px;
+}
+#divMain11>div>div>h1{
+    color: white;
+}
+#divMain11>div>div>p{
+    color: white;
+}
+#div11{
+    color: white;
+    margin-left:156px;
+}
+#divMain11>div>div>button{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+#divMain11>div>div>button:hover{
+    color: green;
+}
